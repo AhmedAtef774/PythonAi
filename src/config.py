@@ -1,6 +1,6 @@
 class Config:
 
-     JsonPath = "https://localhost:7282/api/Similiar/Json"
+     JsonPath = "https://localhost:7282/api/Similiar/GetProductsJson"
 
      # Login endpoint and credentials for the ASP.NET app
      ABCSystemApiKey = "ABCSystemKeyAuth123456"
